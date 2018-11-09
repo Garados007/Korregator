@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorrekturHilfe", "KorrekturHilfe\KorrekturHilfe.csproj", "{ADD940AB-9113-4F0B-9EBC-ADF984517925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD940AB-9113-4F0B-9EBC-ADF984517925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD940AB-9113-4F0B-9EBC-ADF984517925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD940AB-9113-4F0B-9EBC-ADF984517925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD940AB-9113-4F0B-9EBC-ADF984517925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
